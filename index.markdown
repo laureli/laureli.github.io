@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is the index page. Text here will show up above posts.
