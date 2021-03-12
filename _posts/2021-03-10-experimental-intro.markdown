@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Experimental intro"
-date:   2021-03-12 13:51:43 -0800
+date:   2021-03-10 13:51:43 -0800
 categories: jekyll update
 ---
 
