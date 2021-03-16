@@ -19,8 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Idyl Work
-email: your-email@example.com
+email: hio@idylwork.com
 description: >- # this means to ignore newlines until "baseurl:"
+  Doing the work to make the best version of life possible.
   Idyl: an extremely happy or peaceful episode or scene, typically
   idealized or unsustainable.
   Work: activity involving mental or physical effort to achieve a specific
