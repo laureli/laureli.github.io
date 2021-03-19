@@ -30,7 +30,7 @@ github_username:  laureli
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-hyde
+# theme: jekyll-theme-hyde
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed

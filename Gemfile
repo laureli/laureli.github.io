@@ -15,7 +15,7 @@ source "https://rubygems.org"
 #i'm trying to add minimal mistakes as a gem theme
 # gem "minimal-mistakes-jekyll"
 # gem 'jekyll-theme-hyde'#, '~> 2.0'
-gem "jekyll-theme-hydeout", "~> 4.1"
+# gem "jekyll-theme-hydeout", "~> 4.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -23,6 +23,11 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate", "~> 1.1"
+  gem "jekyll-gist", "~> 1.5"
+  gem 'jekyll-remote-theme'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -38,8 +43,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "webrick", "~> 1.7"
 
-gem "jekyll-paginate", "~> 1.1"
-gem "jekyll-gist", "~> 1.5"
+
 gem "redcarpet", "~> 3.5"
 gem "jekyll", "~> 3.9"
 gem "serve", "~> 0.11.7"

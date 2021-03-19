@@ -162,11 +162,6 @@ GEM
       jekyll-seo-tag (~> 2.0)
     jekyll-theme-hyde (2.0.0)
       jekyll (~> 3.3)
-    jekyll-theme-hydeout (4.2.0)
-      jekyll (>= 3.6, < 5.0)
-      jekyll-feed (~> 0.6)
-      jekyll-gist (~> 1.4)
-      jekyll-paginate (~> 1.1)
     jekyll-theme-leap-day (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -275,8 +270,10 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-gist (~> 1.5)
   jekyll-paginate (~> 1.1)
+  jekyll-remote-theme
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-hyde (~> 2.0)
-  jekyll-theme-hydeout (~> 4.1)
   redcarpet (~> 3.5)
   serve (~> 0.11.7)
   tzinfo (~> 1.2)
