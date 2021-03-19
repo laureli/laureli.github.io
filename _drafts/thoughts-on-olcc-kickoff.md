@@ -6,3 +6,5 @@ categories: olcc thoughts
 ---
 
 Read more about drafts here: https://jekyllrb.com/docs/posts/#drafts
+
+I just participated in the OLCC kickoff session. It was 

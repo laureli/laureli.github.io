@@ -2,7 +2,8 @@
 layout: post
 title:  "Does this work"
 date:   2021-03-11 13:51:43 -0800
-categories: general
+tags: general test
+categories: micro-blog
 ---
 Welcome to the experiment. This is an experiment in learning outloud as I work on my Master's of Science in Learning and Organizational Change at Northwestern University.
 

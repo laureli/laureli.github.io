@@ -21,18 +21,16 @@
 title: Idyl Work
 email: hio@idylwork.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Doing the work to make the best version of life possible.
-  Idyl: an extremely happy or peaceful episode or scene, typically
-  idealized or unsustainable.
-  Work: activity involving mental or physical effort to achieve a specific
-  purpose.
+  Doing the work to make the idyl possible.
+  
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://laureli.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: idylwork
 github_username:  laureli
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-hyde
 plugins:
   - jekyll-feed
 
