@@ -2,6 +2,7 @@
 layout: page
 title: Post archive
 permalink: /post-archive/
+sidebar_link: true
 ---
 
 # list the posts
