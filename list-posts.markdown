@@ -5,7 +5,7 @@ permalink: /post-archive/
 sidebar_link: true
 ---
 
-# list the posts
+# Posts:
 
 <ul>
   {% for post in site.posts %}
@@ -15,17 +15,17 @@ sidebar_link: true
   {% endfor %}
 </ul>
 
-# list by category
+## <em> by category </em>
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a>: {{ post.content | strip_html | truncatewords:50 }}</li>
     {% endfor %}
   </ul>
 {% endfor %}
 
-# list by tag
+## <em> by tag </em>
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>

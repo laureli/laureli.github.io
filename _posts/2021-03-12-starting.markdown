@@ -11,4 +11,4 @@ categories: general
 
 This post is also a starting point for my work on Northwestern's Organizational and Leadership Coaching Certificate. I'm pursuing it as part of a Master's of Science in Learning and Organizational Change. That's a mouthful, I know. I'll add more detail in the near future.
 
-Right now, I'm testing systems and trying to relearn how to use git, because web hosting providers are more irritating than setting up my own static website.
+Right now, I'm testing systems and building my own static website to remind myself that this is a form of creative expression.

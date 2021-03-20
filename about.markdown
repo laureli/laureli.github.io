@@ -5,8 +5,6 @@ permalink: /about/
 sidebar_link: true
 ---
 
-# Hi reader
-
 My name is Laureli, and I'm fascinated by how we work: together, alone, joyfully (or not), succeeding, or missing the mark. I've pursued this interest across a variety of teams and roles at companies numbering in the low hundreds to hundreds of thousands employees. 
 
 Across multiple technology companies and teams, my interest in this topic kept growing and has lead me to pursue a master's in Learning and Organizational Change at Northwestern University. During the [MSLOC program](http://msloc.northwestern.edu) I'm studying organizational effectiveness, human systems, design thinking, and developing specific skills that I want to develop and improve. 
