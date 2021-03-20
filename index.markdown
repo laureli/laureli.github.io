@@ -8,7 +8,7 @@ layout: index
 ---
 
 
-# Welcome to Idyl Work. 
+# Welcome 
 
 This is a place to collect my thoughts, resources, and tools as part of my coaching practice.
 

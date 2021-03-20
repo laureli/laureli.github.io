@@ -5,9 +5,7 @@ permalink: /about/
 sidebar_link: true
 ---
 
-## Hello reader
-
-# About Laureli
+# Hi reader
 
 My name is Laureli, and I'm fascinated by how we work: together, alone, joyfully (or not), succeeding, or missing the mark. I've pursued this interest across a variety of teams and roles at companies numbering in the low hundreds to hundreds of thousands employees. 
 
