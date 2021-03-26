@@ -20,8 +20,7 @@ Of note from MSLOC:
 
 # About *Idyl Work*
 
-With idyl work, I want to expand and extend peoples' effort necessary to reach a state of fulfillment, joy, and peace in their lives. Whether we're managing the Sunday scaries, a sense of disconnection, or staring into the abyss of a career we no longer want, we can orient towards improvement.
+With idyl work, I want to help people reach a state of fulfillment, joy, and peace in their lives. Whether we're managing the Sunday scaries, a sense of disconnection, or staring into the abyss of a career we no longer want, I believe we can make progress towards a better experience of life.
 
-> Reference [idyl](https://www.thefreedictionary.com/idyll) and [work](https://www.thefreedictionary.com/work)
 
 
