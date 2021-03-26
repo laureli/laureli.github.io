@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post archive
+title: The archive
 permalink: /post-archive/
 sidebar_link: true
 ---
