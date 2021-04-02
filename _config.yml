@@ -35,7 +35,7 @@ remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
 
-google_analytics: G-3Q11D5QBB2
+google_analytics: UA-192681116-2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
