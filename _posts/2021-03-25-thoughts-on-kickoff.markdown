@@ -24,7 +24,3 @@ I also felt energized by the encouragement to “[d]esign your coaching offering
 The opportunity to attain, or get closer to, a truly fulfilling life feels so essential and somewhat impossible. But I'm wondering: _Will I ever feel ready to work with others on these significant goals?_ To get there, I’ll try to channel the “brave space” created by OLCC to remember that at this moment, bravery is required because “learning necessarily involves not merely risk, but the pain of giving up a former condition in favor of a new way of seeing things.” ([Robert Boostrom, quoted here](https://www.gvsu.edu/cms4/asset/843249C9-B1E5-BD47-A25EDBC68363B726/from-safe-spaces-to-brave-spaces.pdf).)
 
 I’ve spent more than a year of sheltering in place, working from home full time, and leaving only for essential purposes. This year has presented me with opportunities and challenges that I’ve experienced but not reflected on in a larger context of their impact on me. The kick-off session reminded me that I could create space for this reflection.
-
-I’ll leave you with a challenge that I've been thinking about since reading it:
->“Just how far are you willing to go for the sake of your clients’ fulfilling life? And at what point do you settle into a state of comfort - especially with clients you enjoy working with - and find yourself supporting only a portion of their dream or holding a vision of their potential that is within reach, satisfactory, but not great?”
-_(Co-Active Coaching, p. 161))
