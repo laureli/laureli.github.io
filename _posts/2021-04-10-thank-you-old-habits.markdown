@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thank you and good bye, old habits" 
-date:   2021-04-10 10:51:43 -0800
+date:   2021-04-10
 categories: general micro-blog
 tags: olcc learning
 comments: false
@@ -9,7 +9,7 @@ comments: false
 
 Can we do more to celebrate changing old habits, behaviors, or legacy strategies we no longer need as an element of recognizing lifelong growth?
 
-In Immunity to Change, the authors describe the importance of recognizing how we have navigated life using skills that we might now want to change. These practices sustained us through difficulties and helped us achieve enough balance in our life that we now can see a life without them. 
+In [Immunity to Change](https://bookshop.org/books/immunity-to-change-how-to-overcome-it-and-unlock-potential-in-yourself-and-your-organization/9781422117361), the authors describe the importance of recognizing how we have navigated life using skills that we might now want to change. These practices sustained us through difficulties and helped us achieve enough balance in our life that we now can see a life without them. 
 
 While blame or disappointment may enable short-term progress, does starting from a place of avoidance and shame build the foundation for the best possible outcomes? Instead, can we recognize and validate what we want to change and build on our strength to reach this point? Maybe moving past what isn't working for us would be easier if it isn't a failure but rather a sign of progress? By acknowledging that we are constantly adapting and growing, these changes become milestones along a lifelong journey.
 
