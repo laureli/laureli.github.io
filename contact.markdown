@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact
+title: Contact us
 permalink: /contact/
 ---
+You can reach us here:
 
-## Contact idyl work
+> Email: *hi@idylwork.com*  
+> Instagram: *[#idylwork](https://www.instagram.com/idylwork/)*  
 
-
-Content will be landing soon.
