@@ -20,7 +20,7 @@ Of note from MSLOC:
 
 # About *Idyl Work*
 
-With idyl work, I want to help people reach a state of fulfillment, joy, and peace in their lives. Whether we're managing the Sunday scaries, a sense of disconnection, or staring into the abyss of a career we no longer want, I believe we can make progress towards a better experience of life.
+With idyl work, I want to help people experience fulfillment, resilience, and peace in their lives. Whether we're managing the Sunday scaries, a sense of disconnection, or staring into the abyss of a career we no longer want, I believe we can make progress towards a better experience of life.
 
 
 

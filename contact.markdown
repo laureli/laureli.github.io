@@ -2,6 +2,7 @@
 layout: page
 title: Contact us
 permalink: /contact/
+sidebar_link: true
 ---
 You can reach us here:
 
