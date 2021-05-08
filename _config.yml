@@ -37,6 +37,13 @@ plugins:
 
 google_analytics: UA-192681116-2
 
+#comments w/ google forms experiment
+# docs: https://jdvp.me/articles/Google-Forms-Jekyll-Comments
+comment-post: https://docs.google.com/forms/d/e/1FAIpQLScdF3FLxqwYqB5DfKLKLV5UioSpvZA6KUh0LUPzitvgDSYM4g
+comment-read: https://docs.google.com/spreadsheets/d/1q0waJMJavjteN0Jfb7JujMceUlO2u4I-3nIuvxtlzCQ
+# comment field order: article URL, name, comment
+comment-post-fields: [entry.60392250, entry.27730850, entry.1279288433]
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

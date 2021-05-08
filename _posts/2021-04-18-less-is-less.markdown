@@ -37,3 +37,4 @@ Let’s be clear that I am still very much a beginner in autocross, but by letti
 I’ve been using that question from autocross to help me envision a fresh way of existing with less pressure, less assuming failure, and less focus solely on mitigating the worst potential outcome. 
 
 I’m looking forward to reading Leidy Klotz’s book that I’m waiting to get from the library: [Subtract: The untapped science of less](https://bookshop.org/books/subtract-the-untapped-science-of-less/9781250249869).
+
