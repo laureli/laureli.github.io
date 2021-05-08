@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-08T12:16:09-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Idyl Work</title><subtitle>Doing the work to make the idyl possible.</subtitle><entry><title type="html">Less is less</title><link href="http://localhost:4000/micro-blog/2021/04/18/less-is-less.html" rel="alternate" type="text/html" title="Less is less" /><published>2021-04-18T00:00:00-07:00</published><updated>2021-04-18T00:00:00-07:00</updated><id>http://localhost:4000/micro-blog/2021/04/18/less-is-less</id><content type="html" xml:base="http://localhost:4000/micro-blog/2021/04/18/less-is-less.html">&lt;p&gt;Question of the week: Can I rebalance by letting go and having less of that which isn’t helping me?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-08T14:34:24-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">idyl work</title><subtitle>Doing the work to make the idyl possible.</subtitle><entry><title type="html">rediscovering forgotten joys</title><link href="http://localhost:4000/general/micro-blog/2021/05/07/rediscovering-forgotten-joys.html" rel="alternate" type="text/html" title="rediscovering forgotten joys" /><published>2021-05-07T14:51:43-07:00</published><updated>2021-05-07T14:51:43-07:00</updated><id>http://localhost:4000/general/micro-blog/2021/05/07/rediscovering-forgotten-joys</id><content type="html" xml:base="http://localhost:4000/general/micro-blog/2021/05/07/rediscovering-forgotten-joys.html">&lt;p&gt;&lt;em&gt;Can we get alienated from our unique definitions of happiness and fulfillment? When we do, how do we discover a new version that is authentically ours?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Some days, I have forgotten the experience of the alive version of myself after more than a year of stress, anticipation, and worry. To be honest, I worked with these factors before COVID-19 made these challenges visible and gave so many of us a shared platform to talk about missing pieces.&lt;/p&gt;
+
+&lt;p&gt;Martin Seligman describes happiness as a construct of 3 types of wellbeing: &lt;em&gt;pleasure&lt;/em&gt;, &lt;em&gt;engagement&lt;/em&gt;, and &lt;em&gt;meaning&lt;/em&gt;. As described in 
+&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6688745/#S1title&quot;&gt;Unpacking grit: Motivational correlates of perseverance and passion for long-term goals&lt;/a&gt; (2014 work done in part by Angela Duckworth), each person balances these factors and their interest in &lt;em&gt;flow&lt;/em&gt;. Each factor has different rewards and requires different activities to achieve it:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;flow-seekers engage concentration that may overcome self-awareness&lt;/li&gt;
+  &lt;li&gt;pleasure-seekers can embrace novelty, which can be instantly pleasurable&lt;/li&gt;
+  &lt;li&gt;meaning-seekers invest time and effort to work towards their definition of a greater good&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How do we take this list of abstract concepts and make it relevant to ourselves? This practice is working for me right now:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Noticing when something is working and what isn’t. Write it down so I can focus on it.&lt;/li&gt;
+  &lt;li&gt;For each thing, dig deeper into relevant factors: What are you getting? What’s missing?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;an-example-from-my-life&quot;&gt;An example from my life&lt;/h2&gt;
+&lt;p&gt;Making this website brings me a surprising amount of happiness, something I’ve recently realized. I’m using making intentionally, because IdylWork is:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;a static site I’m building with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; with every change and struggle visible at &lt;a href=&quot;https://github.com/laureli/laureli.github.io&quot;&gt;https://github.com/laureli/laureli.github.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;made with open source &amp;amp; publicly available resources like my theme &lt;a href=&quot;https://fongandrew.github.io/hydeout/&quot;&gt;Hydeout&lt;/a&gt; and this code that &lt;a href=&quot;https://jdvp.me/articles/Google-Forms-Jekyll-Comments&quot;&gt;uses google docs to display comments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What I &lt;em&gt;deeply&lt;/em&gt; love:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The only money I spent was registering my domain with &lt;a href=&quot;https://gandi.net&quot;&gt;Gandi.net&lt;/a&gt;, a company supporting protections for free speech, privacy, and data security&lt;/li&gt;
+  &lt;li&gt;There are &lt;em&gt;NO ADS&lt;/em&gt;. The only analytics (user data collection) on this page are mine and they’re here to ensure uptime &amp;amp; reliability.&lt;/li&gt;
+  &lt;li&gt;I don’t have to use Wordpress, Wix, Medium or whatever other platform that’s monetize me, my content, and readers. (This is SO satisfying.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In table form, this might look like:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Pleasure&lt;/th&gt;
+      &lt;th&gt;Engagement&lt;/th&gt;
+      &lt;th&gt;Meaning&lt;/th&gt;
+      &lt;th&gt;Flow&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Creating content and picking the tools I want is incredibly satisfying&lt;/td&gt;
+      &lt;td&gt;Solving the infinite problems that you find when building with multiple open-source tools has taken research and experiments&lt;/td&gt;
+      &lt;td&gt;Building skills I can use to help other people&lt;/td&gt;
+      &lt;td&gt;Writing (very basic) code has been difficult but surprisingly rewarding and flow-y&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Having an additional reason to read more&lt;/td&gt;
+      &lt;td&gt;Discovering an authentic voice for this site&lt;/td&gt;
+      &lt;td&gt;Refining my writing skills so that I can communicate effectively&lt;/td&gt;
+      &lt;td&gt;Self expression: Writing content and having control over this entire site&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Spending money only with services that have aligned values&lt;/td&gt;
+      &lt;td&gt;Learning &amp;amp; relearning skills that I’ve not touched for years: ruby, git, etc&lt;/td&gt;
+      &lt;td&gt;Not using platforms that I disagree with&lt;/td&gt;
+      &lt;td&gt;I could research and optimize all day, everyday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Getting a good deal ;)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;When I dug deeper into the components of happiness, I remembered more about why these things contribute to my happiness and satisfaction. It also helps me to spot more opportunities to try on and experiment with potential pathways to happiness and fulfillment.&lt;/p&gt;
+
+&lt;p&gt;If you try it, let me know what you think in the comments.&lt;/p&gt;</content><author><name></name></author><category term="general" /><category term="micro-blog" /><category term="olcc" /><category term="eudaimonia" /><summary type="html">Can we get alienated from our unique definitions of happiness and fulfillment? When we do, how do we discover a new version that is authentically ours?</summary></entry><entry><title type="html">less is less</title><link href="http://localhost:4000/micro-blog/2021/04/18/less-is-less.html" rel="alternate" type="text/html" title="less is less" /><published>2021-04-18T00:00:00-07:00</published><updated>2021-04-18T00:00:00-07:00</updated><id>http://localhost:4000/micro-blog/2021/04/18/less-is-less</id><content type="html" xml:base="http://localhost:4000/micro-blog/2021/04/18/less-is-less.html">&lt;p&gt;Question of the week: Can I rebalance by letting go and having less of that which isn’t helping me?&lt;/p&gt;
 
 &lt;p&gt;I’m tired of the aphorism that &lt;em&gt;less is more&lt;/em&gt;. After a year of more disease, stress, worry, failing systems, and existential crises, I’ve had so much more. I also replaced many of the things that I lost with more:&lt;/p&gt;
 &lt;ul&gt;
@@ -31,13 +105,13 @@ I’m going to prune what is no longer serving me and replacing it with less to 
 
 &lt;p&gt;I’ve been using that question from autocross to help me envision a fresh way of existing with less pressure, less assuming failure, and less focus solely on mitigating the worst potential outcome.&lt;/p&gt;
 
-&lt;p&gt;I’m looking forward to reading Leidy Klotz’s book that I’m waiting to get from the library: &lt;a href=&quot;https://bookshop.org/books/subtract-the-untapped-science-of-less/9781250249869&quot;&gt;Subtract: The untapped science of less&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="micro-blog" /><category term="olcc" /><summary type="html">Question of the week: Can I rebalance by letting go and having less of that which isn’t helping me?</summary></entry><entry><title type="html">Thank you and good bye, old habits</title><link href="http://localhost:4000/general/micro-blog/2021/04/10/thank-you-old-habits.html" rel="alternate" type="text/html" title="Thank you and good bye, old habits" /><published>2021-04-10T00:00:00-07:00</published><updated>2021-04-10T00:00:00-07:00</updated><id>http://localhost:4000/general/micro-blog/2021/04/10/thank-you-old-habits</id><content type="html" xml:base="http://localhost:4000/general/micro-blog/2021/04/10/thank-you-old-habits.html">&lt;p&gt;Can we do more to celebrate changing old habits, behaviors, or legacy strategies we no longer need as an element of recognizing lifelong growth?&lt;/p&gt;
+&lt;p&gt;I’m looking forward to reading Leidy Klotz’s book that I’m waiting to get from the library: &lt;a href=&quot;https://bookshop.org/books/subtract-the-untapped-science-of-less/9781250249869&quot;&gt;Subtract: The untapped science of less&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="micro-blog" /><category term="olcc" /><summary type="html">Question of the week: Can I rebalance by letting go and having less of that which isn’t helping me?</summary></entry><entry><title type="html">goodbye, old habits (i’ll see you later)</title><link href="http://localhost:4000/general/micro-blog/2021/04/10/thank-you-old-habits.html" rel="alternate" type="text/html" title="goodbye, old habits (i’ll see you later)" /><published>2021-04-10T00:00:00-07:00</published><updated>2021-04-10T00:00:00-07:00</updated><id>http://localhost:4000/general/micro-blog/2021/04/10/thank-you-old-habits</id><content type="html" xml:base="http://localhost:4000/general/micro-blog/2021/04/10/thank-you-old-habits.html">&lt;p&gt;Can we do more to celebrate changing old habits, behaviors, or legacy strategies we no longer need as an element of recognizing lifelong growth?&lt;/p&gt;
 
 &lt;p&gt;In &lt;a href=&quot;https://bookshop.org/books/immunity-to-change-how-to-overcome-it-and-unlock-potential-in-yourself-and-your-organization/9781422117361&quot;&gt;Immunity to Change&lt;/a&gt;, the authors describe the importance of recognizing how we have navigated life using skills that we might now want to change. These practices sustained us through difficulties and helped us achieve enough balance in our life that we now can see a life without them.&lt;/p&gt;
 
 &lt;p&gt;While blame or disappointment may enable short-term progress, does starting from a place of avoidance and shame build the foundation for the best possible outcomes? Instead, can we recognize and validate what we want to change and build on our strength to reach this point? Maybe moving past what isn’t working for us would be easier if it isn’t a failure but rather a sign of progress? By acknowledging that we are constantly adapting and growing, these changes become milestones along a lifelong journey.&lt;/p&gt;
 
-&lt;p&gt;So, thank you for all the prior help, old habits. I can’t wait to move beyond you.&lt;/p&gt;</content><author><name></name></author><category term="general" /><category term="micro-blog" /><category term="olcc" /><category term="learning" /><category term="change" /><summary type="html">Can we do more to celebrate changing old habits, behaviors, or legacy strategies we no longer need as an element of recognizing lifelong growth?</summary></entry><entry><title type="html">Thoughts on the kick-off</title><link href="http://localhost:4000/olcc/micro-blog/2021/03/25/thoughts-on-kickoff.html" rel="alternate" type="text/html" title="Thoughts on the kick-off" /><published>2021-03-25T00:00:00-07:00</published><updated>2021-03-25T00:00:00-07:00</updated><id>http://localhost:4000/olcc/micro-blog/2021/03/25/thoughts-on-kickoff</id><content type="html" xml:base="http://localhost:4000/olcc/micro-blog/2021/03/25/thoughts-on-kickoff.html">&lt;p&gt;Wow, what a beginning.&lt;/p&gt;
+&lt;p&gt;So, thank you for all the prior help, old habits. I can’t wait to move beyond you.&lt;/p&gt;</content><author><name></name></author><category term="general" /><category term="micro-blog" /><category term="olcc" /><category term="learning" /><category term="change" /><summary type="html">Can we do more to celebrate changing old habits, behaviors, or legacy strategies we no longer need as an element of recognizing lifelong growth?</summary></entry><entry><title type="html">thoughts on the kick-off</title><link href="http://localhost:4000/olcc/micro-blog/2021/03/25/thoughts-on-kickoff.html" rel="alternate" type="text/html" title="thoughts on the kick-off" /><published>2021-03-25T00:00:00-07:00</published><updated>2021-03-25T00:00:00-07:00</updated><id>http://localhost:4000/olcc/micro-blog/2021/03/25/thoughts-on-kickoff</id><content type="html" xml:base="http://localhost:4000/olcc/micro-blog/2021/03/25/thoughts-on-kickoff.html">&lt;p&gt;Wow, what a beginning.&lt;/p&gt;
 
 &lt;p&gt;The kick-off of OLCC has encouraged me to slow down and consider some Big Questions that felt like a breath of fresh air like:&lt;/p&gt;
 &lt;ul&gt;
@@ -56,7 +130,7 @@ I’m going to prune what is no longer serving me and replacing it with less to 
 
 &lt;p&gt;The opportunity to attain, or get closer to, a truly fulfilling life feels so essential and somewhat impossible. But I’m wondering: &lt;em&gt;Will I ever feel ready to work with others on these significant goals?&lt;/em&gt; To get there, I’ll try to channel the “brave space” created by OLCC to remember that at this moment, bravery is required because “learning necessarily involves not merely risk, but the pain of giving up a former condition in favor of a new way of seeing things.” (&lt;a href=&quot;https://www.gvsu.edu/cms4/asset/843249C9-B1E5-BD47-A25EDBC68363B726/from-safe-spaces-to-brave-spaces.pdf&quot;&gt;Robert Boostrom, quoted here&lt;/a&gt;.)&lt;/p&gt;
 
-&lt;p&gt;I’ve spent more than a year of sheltering in place, working from home full time, and leaving only for essential purposes. This year has presented me with opportunities and challenges that I’ve experienced but not reflected on in a larger context of their impact on me. The kick-off session reminded me that I could create space for this reflection.&lt;/p&gt;</content><author><name></name></author><category term="olcc" /><category term="micro-blog" /><category term="learning" /><category term="coaching" /><category term="questions" /><summary type="html">Wow, what a beginning.</summary></entry><entry><title type="html">Starting</title><link href="http://localhost:4000/general/2021/03/10/starting.html" rel="alternate" type="text/html" title="Starting" /><published>2021-03-10T13:51:43-08:00</published><updated>2021-03-10T13:51:43-08:00</updated><id>http://localhost:4000/general/2021/03/10/starting</id><content type="html" xml:base="http://localhost:4000/general/2021/03/10/starting.html">&lt;p&gt;&lt;em&gt;This post is a test.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I’ve spent more than a year of sheltering in place, working from home full time, and leaving only for essential purposes. This year has presented me with opportunities and challenges that I’ve experienced but not reflected on in a larger context of their impact on me. The kick-off session reminded me that I could create space for this reflection.&lt;/p&gt;</content><author><name></name></author><category term="olcc" /><category term="micro-blog" /><category term="learning" /><category term="coaching" /><category term="questions" /><summary type="html">Wow, what a beginning.</summary></entry><entry><title type="html">starting</title><link href="http://localhost:4000/general/2021/03/10/starting.html" rel="alternate" type="text/html" title="starting" /><published>2021-03-10T13:51:43-08:00</published><updated>2021-03-10T13:51:43-08:00</updated><id>http://localhost:4000/general/2021/03/10/starting</id><content type="html" xml:base="http://localhost:4000/general/2021/03/10/starting.html">&lt;p&gt;&lt;em&gt;This post is a test.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;And this post is a starting point for my work on Northwestern’s Organizational and Leadership Coaching Certificate. I’m pursuing it as part of a Master’s of Science in Learning and Organizational Change. That’s a mouthful, I know. I’ll add more detail in the near future.&lt;/p&gt;
 

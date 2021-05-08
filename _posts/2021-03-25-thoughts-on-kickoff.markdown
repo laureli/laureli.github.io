@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thoughts on the kick-off"
+title:  "thoughts on the kick-off"
 date:   2021-03-25 
 categories: olcc micro-blog
 tags: learning coaching questions

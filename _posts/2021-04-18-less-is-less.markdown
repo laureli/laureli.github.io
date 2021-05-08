@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Less is less" 
+title:  "less is less" 
 date:   2021-04-18
 categories: micro-blog
 tags: olcc 
