@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "rediscovering forgotten joys" 
+title:  "Rediscovering joys" 
 date:   2021-05-07 13:51:43 -0800
 categories: general micro-blog
 tags: olcc eudaimonia

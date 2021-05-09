@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "goodbye, old habits (i'll see you later)" 
+title:  "Goodbye, old habits (i'll see you later)" 
 date:   2021-04-10
 categories: general micro-blog
 tags: olcc learning change
