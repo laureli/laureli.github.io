@@ -44,6 +44,12 @@ comment-read: https://docs.google.com/spreadsheets/d/1q0waJMJavjteN0Jfb7JujMceUl
 # comment field order: article URL, name, comment
 comment-post-fields: [entry.60392250, entry.27730850, entry.1279288433]
 
+contact-post: https://docs.google.com/forms/d/e/1FAIpQLScSfFfFKn74vHHEJ-7tqH5PJZjeenzKs09gU-Uei5tSJEWA1A
+contact-read: https://docs.google.com/spreadsheets/d/12VDLGjPIpEmxa_utBSOlF70tccb218y7Lvtb2dDdYpU
+contact-post-fields: [entry.526438720, entry.1537981017, entry.473326273, entry.1014170388, entry.1984307474]
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
