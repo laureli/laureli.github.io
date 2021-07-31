@@ -6,7 +6,7 @@ layout: index
 # sidebar_link: true
 
 ---
-
+![photo](/assets/coast-wide.jpg)
 
 # Welcome 
 
