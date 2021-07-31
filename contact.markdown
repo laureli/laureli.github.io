@@ -9,3 +9,4 @@ You can reach us here:
 > Email: *hi@idylwork.com*  
 > Instagram: *[#idylwork](https://www.instagram.com/idylwork/)*  
 
+  {% include contact-form.html url=page.url %}
