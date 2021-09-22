@@ -9,8 +9,7 @@ permalink: coaching-reflection-aid
 After reflecting on clients, relationships, and how we can work together, I compiled this image to help set expectations and encourage me to push deeper. I like transforming information from 1 format to another. It gives my brain time to focus on different aspects of the topic at hand.
 
 
-
-![coaching-reflection-aid.png](assets/post-assets/coaching-reflection-aid.png)
+![coaching-reflection-aid.png](/assets/post-assets/coaching-reflection-aid.png)
 
 As I look at this, I find myself thinking:
 
