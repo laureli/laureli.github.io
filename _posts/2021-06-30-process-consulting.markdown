@@ -6,7 +6,7 @@ categories: general
 tags: olcc micro-blog
 permalink: coaching-with-consulting-models
 ---
-dgar Schein describes 3 models of working with clients in his article "What is process consultation?" 
+Edgar Schein describes 3 models of working with clients in his article "What is process consultation?" 
 
 In the Process Consultation Model, coach and client will work together 50/50 from initial discovery and diagnosis. Instead of solving problems for the client, the process consultant teaches the client how to solve their own problems and supports them through the process. Schein notes that “expertise is less relevant than… the skills of involving the client in self-diagnosis and helping… find a remedy that fits his particular situation.
 
