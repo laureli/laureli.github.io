@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: /posts-archive/
+permalink: /posts/
 sidebar_link: true
 ---
 <ul>
