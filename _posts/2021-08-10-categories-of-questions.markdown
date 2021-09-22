@@ -2,7 +2,7 @@
 layout: post
 title:  "Categories of question" 
 date:   2021-08-09 13:51:43 -0800
-permalink: categories-of-questions
+permalink: 
 categories: general
 tags: olcc micro-blog
 ---

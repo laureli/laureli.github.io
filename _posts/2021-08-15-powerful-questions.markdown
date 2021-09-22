@@ -4,7 +4,7 @@ title:  "Powerful questions as a tool to master"
 date:   2021-08-15 13:51:43 -0800
 categories: general
 tags: olcc micro-blog
-permalink: powerful-questions
+permalink: 
 ---
 I'm a curious person and love asking questions, but not all questions are equal. [This article](https://positivepsychology.com/coaching-questions/) describes powerful questions a tool that "ignites the imagination ... and helps to overcome boundaries." As a coach, I want to develop skills to ask even better questions for my clients so that they can find their own answers.
 
