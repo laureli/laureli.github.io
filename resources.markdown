@@ -40,6 +40,8 @@ R: *Relatedness* details connections and relationships that can create or destro
 
 F: *Fairness* is the perceived fair exchange between people
 
-By using these elements to navigate a situation, we can gain insight into positive resonance or negative pressures.
+By using these elements to navigate a situation, we can gain insight into positive resonance or negative pressures. This makes it easier for people to interact with these factors as they become easier to recognize and remember. 
+
+As people gain the ability to recognize different elements, we can ask: How are these elements serving me right now?
 
 You can read more at this post on [threat versus reward]( https://www.idylwork.com/general/2021/05/15/threat-vs-reward-what-motivates.html )
