@@ -2,7 +2,7 @@
 layout: page
 title: The archive
 permalink: /the-archive/
-sidebar_link: true
+sidebar_link: 
 ---
 
 ## <em> by category </em>
