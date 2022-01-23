@@ -4,6 +4,8 @@ title: Posts
 permalink: /posts/
 sidebar_link: true
 ---
+This is a collection of blog posts.
+
 <ul>
   {% for post in site.posts %}
     <li>
