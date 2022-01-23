@@ -9,10 +9,12 @@ permalink: smart-v-positive
 
 There are many approaches to making progress on goals and selecting an approach that feels appropriate can be a great first step on the path. 
 
-<blockquote>
-💡Something to consider:
-Our current work culture in the USA frequently encourages us to always do more, work harder, and keep pushing. While there are times when pushing is the best next step, sometimes making a transformative change is more accessible when using a new approach that challenges our assumed ways of working. This might even include doing less.
-</blockquote>
+
+> 💡_Something to consider:_
+>
+> Our current work culture in the USA frequently encourages us to always do more, work harder, and keep pushing. While there are times when pushing is the best next step, sometimes making a transformative change is more accessible when using a new approach that challenges our assumed ways of working. 
+> 
+> This might even include doing less.
 
 Almost everyone has encountered a SMART goal. From a `get shit done` perspective, what’s not to like about a system that encourages us to set goals that are:
 
