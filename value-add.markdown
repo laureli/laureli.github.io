@@ -25,10 +25,17 @@ ___
 _Technical staff, Austin, Texas_
 
 ___
-### Value add
+### My value add
 
-I enjoy partnering with my clients to adapt and respond to our ever changing work. Being responsive and exploratory is one of my favorite ways to achieve client goals because as we remove stigma and fear, we are able to address blockers that have prevented you from already reaching the next step.
+_Change and transformation are disruptive._
+--
 
+They are also skills that we can develop. As a coach, I work with people to evolve their ways of working, develop skills even when it is difficult, and embrace challenges in the face of failure because these create opportunities for dramatic difference in:
+- navigating negative experiences
+- changing trajectory at work
+- feeling empowered and autonomous
+
+I enjoy partnering with my clients to adapt and respond in a dynamic context. Being responsive and exploratory is one of my favorite ways to achieve client goals because as we remove stigma and fear, we are able to address blockers that have prevented you from already reaching the next step.
 
 My work adds value to clients by helping to:
 - Clarify goals by leveraging thoughtful questions to help you refine and personalize your goals. By creating a goal that you truly own, you can direct your efforts towards it wholeheartedly.
