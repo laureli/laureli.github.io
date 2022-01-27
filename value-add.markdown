@@ -9,17 +9,22 @@ sidebar_link: true
 
 I've had the opportunity to work with clients on a range of topics. Here's some of the feedback that I've received from our work together:
 
+> Laureli's ability to listen, maintain presence, and weave together themes allowed for deep discussion and powerful conclusions. Laureli helped me to reveal certain mindsets that were blockers for change and shape a path towards progress. Her curious nature lends well to a partnership in the coaching space, and I always felt that she was on my team. Through our time together, I was able to reframe things in a way that made it possible to celebrate the small wins while still pushing forward. I would recommend Laureli to anyone looking to further their development in a safe and supportive environment.
+
+_Senior consultant, Denver, Colorado_
+
+___
+
 > I started working with Laureli when I felt really stuck at my job. During our work, I practiced asking hard questions that helped me get more information and make a decisive change when the opportunity arose.
->
-> _Senior leader, San Francisco, California_
 
+_Senior leader, San Francisco, California_
 
-
+___
 > Our coaching work has made me feel heard, seen, and grounded. Laureli helped me frame some simple questions into a practice that I can use to stay grounded and in the moment during high pressure meetings. 
->
-> _Technical staff, Austin, Texas_
 
+_Technical staff, Austin, Texas_
 
+___
 ### Value add
 
 I enjoy partnering with my clients to adapt and respond to our ever changing work. Being responsive and exploratory is one of my favorite ways to achieve client goals because as we remove stigma and fear, we are able to address blockers that have prevented you from already reaching the next step.

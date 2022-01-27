@@ -10,8 +10,7 @@ Let's dig in together.
 
 * TOC
 {:toc}
-
-
+---
 ## Tool 1: Making implicit explicit
 
 This image summarizes some of the tensions that exist in a coaching practice:
