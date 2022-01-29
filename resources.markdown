@@ -11,16 +11,61 @@ Let's dig in together.
 * TOC
 {:toc}
 ---
-## Tool 1: Making implicit explicit
 
-This image summarizes some of the tensions that exist in a coaching practice:
-- the possibility of change and resistance
-- communication styles and presence
+## Tool 1: Reflected best self
 
-During reflection on coaching in late August 2021, I realized that I find myself balancing these questions internally during coaching sessions. With this image / framework, I want to make it more explicit and  open to discussion during coaching sessions.
+***What are your best moments?***  How many experiences can you call to mind right now when you felt like you truly showed up as your best self?
 
-![coaching-reflection-aid.png](/assets/post-assets/coaching-reflection-aid.png)
+***What do you peers, team members, leaders, and friends think are your best moments?*** Do you know what kind of positive impact you have on other people?
 
+While the thought of asking might make you cringe, take a second to think about how you feel in those fleeting moments of responding fulfillment, success, and whole-hearted resonance. The Reflected Best Self activity helps you identify those moments and collect them over time so that you can gradually build a map of meaningful experiences.
+
+If you’d like to use a service, the University of Michigan has created a tool that will help you navigate the steps of this process that is available at: [https://reflectedbestselfexercise.com/](https://reflectedbestselfexercise.com/)
+
+There are two steps:
+
+1. Reflect on your best moments. Try to identify 3-5 that resonate with you today.
+2. Pose a simple prompt to people who matter to: Please share 1-3 stories of when was I at my best. 
+
+___Reflecting___
+
+The first question is nebulous (what does “best” mean afterall?), so here are a couple pointers that I find helpful:
+
+*Reflection tends to work best in writing*. Whether you write it by hand or type it on a keyboard, taking the time to move your thoughts into a written format can be invaluable help in processing and evaluating. It enables you to identify shifts in your thinking over time and identify themes between areas you previously thought were distinct.
+
+***Best** means different things at different times*. Since isn’t a perfect definition of “best,” I like to think about different elements of my experience to help my brain get rolling. Some prompts that I like are:
+
+*Over the relevant time period ...*
+
+- What experiences made me feel energized?
+- When do I feel in flow?
+- What activities brought me joy?
+- When have I felt especially alive?
+- When does time fly by without me noticing?
+- When have I brought value to other people?
+
+Using these questions as a foundation, I write brief summaries to describe the event, what happened, what I felt, and why I feel like it matters to me today. Across the 3-5 stories, you might notice themes or gaps. You might notice pressure to feel like a specific story is supposed to be relevant and important to you, but isn’t on your list for today. All of this is okay. 
+
+🙌 Congratulate yourself for taking a moment to reflect. That can be a lot of work! 
+
+___Asking___
+
+While we might get compliments in the moment, we rarely ask for praise or positive feedback from the people who matter to us. This can result in development-oriented people getting much more corrective feedback than positive and perhaps skew our internal scales about how we’re doing.
+
+While growing and overcoming weaknesses are an essential element of development, accurately understanding the skills you already have and the value you deliver today enables you to accurately plan. Additional benefits include:
+
+- giving someone an opportunity to share a story that matters with you
+- creating a moment of positive reflection for the important people in your life
+
+1. For this section, collect a list of around 10 people who matter. They can be from different parts of your life (colleagues, friends, family, mentors).
+2. Ask them: *Can you please share 1-3 stories of when was I at my best?*
+3. Analyze the feedback to see if there are themes, surprising moments that others remember better than you, and experiences that resonate with you today.
+4. Collect your thoughts into a summary of these experience today.
+5. *Bonus:* Compare your self-reflection with these stories. Is there alignment? Are there differences?
+
+There are many ways to ask for these stories: emails, a simple online form, or the [U. Michigan service](https://reflectedbestselfexercise.com/), which will send reminders and compile responses into a single PDF for you to download. 
+
+However you go about it, compiling these stories will expand your thoughts and give you additional insight into what matters to people who matter to you. These results make it worth taking a chance and overcoming the initial cringe.
 
 ---
 
@@ -77,3 +122,20 @@ I’ve used POSITIVE with a long-term project at several key moments:
 For a deeper dive into more coaching models, consider reading:
 
 Libri, V. (2004). Beyond GROW: In search of acronyms and coaching models. The International Journal of Mentoring and Coaching, 2(1), July. [Available here](https://www.emccglobal.org/wp-content/uploads/2018/02/29-1.pdf).
+
+---
+
+
+## Tool 4: Making implicit explicit
+
+This image summarizes some of the tensions that exist in a coaching practice:
+- the possibility of change and resistance
+- communication styles and presence
+
+During reflection on coaching in late August 2021, I realized that I find myself balancing these questions internally during coaching sessions. With this image / framework, I want to make it more explicit and  open to discussion during coaching sessions.
+
+![coaching-reflection-aid.png](/assets/post-assets/coaching-reflection-aid.png)
+
+
+
+
