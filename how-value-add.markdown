@@ -2,7 +2,7 @@
 layout: page
 title: Value
 permalink: /value-add/
-sidebar_link: true
+sidebar_link: 
 ---
 
 ### Selected testimonials
