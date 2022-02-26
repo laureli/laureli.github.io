@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-sidebar_link: true
+sidebar_link: 
 ---
   {% include contact-form.html url=page.url %}
 
