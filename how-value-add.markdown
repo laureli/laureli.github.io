@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How I add value
+title: Value
 permalink: /value-add/
 sidebar_link: true
 ---
