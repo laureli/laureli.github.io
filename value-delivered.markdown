@@ -1,8 +1,8 @@
 ---
 layout: page
-title: How I add value
+title: Value delivered
 permalink: /value-add/
-sidebar_link: true
+sidebar_link: show
 ---
 
 ### Selected testimonials
