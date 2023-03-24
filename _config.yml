@@ -1,71 +1,43 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# site settings
+title: Verbful
+subtitle: Coach & Advise
+email: hi@verbful.org
+description: Working with individuals and organizations to<br /> consider, experiment & adapt approaches.
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: Northern California
+city: 
+state: 
+zip_code: 
+country:
+phone: 
 
-title: verbful
-email: hi@idylwork.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Doing the work to make the idyl possible.
-  
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://laureli.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: idylwork
-github_username:  laureli
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Build settings
-# theme: minima
-# theme: jekyll-theme-hyde
-remote_theme: fongandrew/hydeout
-plugins:
-  - jekyll-feed
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/laureli
+  GitLab:
+  Google-Plus: 
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/laurelimallek
+  Twitter:
+  Slack:
 
-google_analytics: UA-192681116-2
+# build settings
+markdown: kramdown
 
-#comments w/ google forms experiment
-# docs: https://jdvp.me/articles/Google-Forms-Jekyll-Comments
-comment-post: https://docs.google.com/forms/d/e/1FAIpQLScdF3FLxqwYqB5DfKLKLV5UioSpvZA6KUh0LUPzitvgDSYM4g
-comment-read: https://docs.google.com/spreadsheets/d/1q0waJMJavjteN0Jfb7JujMceUlO2u4I-3nIuvxtlzCQ
-# comment field order: article URL, name, comment
-comment-post-fields: [entry.60392250, entry.27730850, entry.1279288433]
+sass:
+  style: compressed
 
-contact-post: https://docs.google.com/forms/d/e/1FAIpQLScSfFfFKn74vHHEJ-7tqH5PJZjeenzKs09gU-Uei5tSJEWA1A
-contact-read: https://docs.google.com/spreadsheets/d/12VDLGjPIpEmxa_utBSOlF70tccb218y7Lvtb2dDdYpU
-contact-post-fields: [entry.526438720, entry.1537981017, entry.473326273, entry.1014170388, entry.1984307474]
-
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
