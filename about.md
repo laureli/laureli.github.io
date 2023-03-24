@@ -2,7 +2,7 @@
 layout: post
 title: About Verbful
 description: null
-image: assets/images/pic05.jpg
+image: assets/images/pic-14.jpeg
 nav-menu: true
 permalink: /about/
 ---

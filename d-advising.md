@@ -2,7 +2,7 @@
 layout: post
 title: Advising
 description: Coaching landing page
-image: assets/images/pic03.jpg
+image: assets/images/pic-15.jpeg
 nav-menu: true
 permalink: /services/advising/
 ---
