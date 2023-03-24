@@ -2,7 +2,7 @@
 layout: post
 title: Coaching
 description: Coaching landing page
-image: assets/images/pic05.jpg
+image: assets/images/pic-12.jpeg
 nav-menu: true
 permalink: /services/coaching/
 ---
