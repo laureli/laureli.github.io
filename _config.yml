@@ -3,7 +3,7 @@ title: Verbful
 subtitle: Coach & Advise
 email: hi@verbful.org
 description: Working with individuals and organizations to<br /> consider, experiment & adapt approaches.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Northern California
