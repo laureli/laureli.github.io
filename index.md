@@ -8,10 +8,4 @@ author: null
 show_tile: false
 ---
 
-This is the text that shows up on the home page.
-
-* here is a bullet, maybe?
-* here's another one.
-- maybe this?
-
-the HOME layout makes the text show up on / i suppose?
+You can send me a message to start a conversation. I look forward to hearing from you.
