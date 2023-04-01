@@ -1,14 +1,20 @@
 ---
 layout: post
 title: Advising
-description: Coaching landing page
+description: More information about advising
 image: assets/images/pic-15.jpeg
 nav-menu: true
 permalink: /services/advising/
 ---
+<p>Our customized approach to advising focuses on delivering exactly what our clients need when they need it. We don't just use a standard, templetized approach: we use frameworks and templates to create an approach that forefronts you and the challenges you are solving.
+</p>
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<p>We advise on:
+        <ul>
+          <li>Scaling programs in a hyper-growth environment while also improving delivery metrics</li>
+          <li>Diagnosing characteristics of a team that hold the group back from improved performance & resilience</li>
+          <li>Designing organizational change processes that bring organizations into compliance with changing security or privacy requirements</li>
+          <li>Identifying and implementing opportunities for teams to improve: communication skills, collaboration practices, and delegation capabilities
+          </li>
+      </ul>
+  </p>
