@@ -1,14 +1,26 @@
 ---
 layout: post
 title: Coaching
-description: Coaching landing page
+description: More information about coaching
 image: assets/images/pic-12.jpeg
 nav-menu: true
 permalink: /services/coaching/
 ---
+## Coaching is about _process_ and _partnership_. <br>
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<p> As a coaching client, you’ll build skills or unlock the next steps on the path that you identify. Whether you already have articulated the questions or are trying to identify what isn't working, I can work with you to co-create a plan specifically for you. </p> 
+<p>  Some clients that I’ve work with have focused on:
+  <ul>
+    <li>Overcoming blockers to progress on development or long-term goals</li>
+    <li>Increasing team effectiveness and group attunement through self-awareness about patterns, behaviors, and team interactions</li>
+    <li>Reevaluating approaches to problem solving to create and test new approaches</li>
+  </ul> 
+</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<p>As a coach, you lead and I follow. The results can look like:
+<ul>
+    <li>Insights into your assumptions, self-awareness about default responses, and guidance on how you can develop new approaches in challenging contexts</li>
+    <li>Accountability as a confidential partner who can help you gain confidence in novel or challenging times</li>
+    <li>Deep knowledge of development & learning frameworks that are well tested & relevant</li>
+  </ul>
+</p>
