@@ -1,7 +1,7 @@
 ---
 title: Services
 layout: landing
-description: How we think about the work that we do
+description: How we think about the work
 image: assets/images/pic07.jpg
 nav-menu: true
 permalink: /services/
@@ -46,7 +46,7 @@ permalink: /services/
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Advising on organizations & delivery</h3>
+					<h3>Advising for organizations & execution</h3>
 				</header>
 				<p> Advising leverages skills, experience, and expertise to support a specific need. Coaching is co-creative, advising tends to be execution and goal oriented. 
 				</p>			
@@ -83,9 +83,9 @@ permalink: /services/
 			<h2>Reach out for more information</h2>
 		</header>
 		<p>Let us know that you're interested and we can find a time to dig in together.</p>
-		<ul class="actions">
+		<!-- <ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		</ul> -->
 	</div>
 </section>
 

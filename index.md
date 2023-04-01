@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-You can send me a message to start a conversation. I look forward to hearing from you.
+Send a message to start a conversation. We look forward to hearing from you.
